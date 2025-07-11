@@ -38,7 +38,7 @@ TextLabel.TextColor3 = Color3.fromRGB(255, 165, 0) -- Orange
 TextLabel.TextScaled = true
 TextLabel.TextXAlignment = Enum.TextXAlignment.Left
 TextLabel.TextYAlignment = Enum.TextYAlignment.Top
-TextLabel.Text = "Now Playing The Epic Titan Fight ost"
+TextLabel.Text = "Now Playing through the patches of a violet"
 TextLabel.Parent = NotificationFrame
 
 -- Create the progress bar
