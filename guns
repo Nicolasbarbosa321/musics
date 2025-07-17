@@ -18,15 +18,8 @@ title.BackgroundColor3 = Color3.fromRGB(0, 0, 100)
 title.TextColor3 = Color3.fromRGB(0, 0, 0)
 title.Font = Enum.Font.SourceSansBold
 title.TextSize = 20
-title.Text = "Guns painel"
+title.Text = "Guns Painel By KJ_32261"
 title.Parent = mainFrame
-
-local sound = Instance.new("Sound", workspace)
-sound.SoundId = "rbxassetid://95305396196239"
-sound.Volume = 2
-sound.Looped = true
-sound:Play()
-end
 
 local sound = Instance.new("Sound", workspace)
 sound.SoundId = "rbxassetid://95305396196239"
@@ -164,4 +157,4 @@ createButton("Portal gun", "https://raw.githubusercontent.com/Nicolasbarbosa321/
 createButton("ARK-160", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/gun.txt", "", tabFrames["Painel"])
 createButton("SB Shotgun", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
 createButton("Kitchen Gun", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
-createButton("Ak-47", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tab
+createButton("Ak-47", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
