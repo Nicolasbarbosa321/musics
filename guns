@@ -156,5 +156,5 @@ createButton("Angel Shotgun", "https://raw.githubusercontent.com/Nicolasbarbosa3
 createButton("Portal gun", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/portalgun.txt", "", tabFrames["Painel"])
 createButton("ARK-160", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/gun.txt", "", tabFrames["Painel"])
 createButton("SB Shotgun", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
-createButton("Kitchen Gun", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
-createButton("Ak-47", "https://raw.githubusercontent.com/Nicolasbarbosa321/musics/refs/heads/main/SB%20Shotgun.txt", "", tabFrames["Painel"])
+createButton("Kitchen Gun", "https://raw.githubusercontent.com/nicolasbarbosa323/rare/refs/heads/main/kitcher%20gun.lua", "", tabFrames["Painel"])
+createButton("Ak-47", "https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/ak47", "", tabFrames["Painel"])
